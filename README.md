@@ -37,9 +37,6 @@
 ### Entidades com Relacionamento
 
 - [ ] Deve haver pelo menos duas entidades com um relacionamento claro entre elas (por exemplo, Livros e Autores, Produtos e Categorias, Cursos e Instrutores, etc.).
-      
-:pushpin: Só há uma entidade: imóvel
-
 - [ ] Implementar operações CRUD para ambas as entidades.
 
 ### Autenticação e Autorização:

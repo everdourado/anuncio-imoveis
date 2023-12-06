@@ -1,4 +1,7 @@
+import logo from '../../images/LogoAM.png'
+
 export function Navbar(){
+
     return (
         <>
             <nav>
@@ -7,7 +10,7 @@ export function Navbar(){
                         <input type="text" />
                     </i>
                 </div>
-                <img src="" alt="" />
+                <img src={logo} alt="Logo do Anúncios de Imóveis" />
             </nav>
         </>
     )

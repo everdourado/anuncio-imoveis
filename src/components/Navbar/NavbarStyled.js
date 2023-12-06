@@ -1,4 +1,6 @@
-nav {
+import styled from 'styled-components';
+
+export const Nav = styled.nav`
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -9,24 +11,22 @@ nav {
     background-color: #fff;
     z-index: 1;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
-}
+`
 
-img{
+export const ImageLogo = styled.img`
     width: 8rem;
     height: 3.5rem;
     object-fit: cover;
     cursor: pointer;
-}
+`
 
-div.input-search-space{
+export const InputSpace = styled.div`
     position: relative;
     width: 200px;
     display: flex;
     align-items: center;
-    
-}
 
-i.bi-search {
+    i {
     position: absolute;
     top: 1;
     right: 0.2rem;
@@ -36,9 +36,9 @@ i.bi-search {
     color: #757575;
     border-radius: 0.3rem;
     padding: 0.5rem;
-}
+    }
 
-div.input-search-space input {
+    input {
     outline: none;
     font-size:  0.8rem;
     padding: 0.9rem;
@@ -46,27 +46,27 @@ div.input-search-space input {
     border: none;
     width: 100%;
     border-radius: 0.3rem;
-}
 
-div.input-search-space input:focus {
+    &:focus {
     border: 1px solid #0bade3;
 }
-
-button {
-    background-color: #0bade3;
-    border: none;
-    outline: none;
-    font-size: 1rem;
-    padding: 0.4rem 0.8rem;
-    color: #fff;
-    transition: all 0.4s ease-in-out;
-    cursor: pointer;
-    border-radius: 0.3rem;
-    font-family: Roboto, arial;
-    font-weight: 300;
-    text-transform: uppercase;
 }
+`
+export const Button = styled.button`
+background-color: #0bade3;
+border: none;
+outline: none;
+font-size: 1rem;
+padding: 0.4rem 0.8rem;
+color: #fff;
+transition: all 0.4s ease-in-out;
+cursor: pointer;
+border-radius: 0.3rem;
+font-family: Roboto, arial;
+font-weight: 300;
+text-transform: uppercase;
 
-button:hover {
-    background-color: #0091c1;
+&:hover {
+    background-color: #006586;
 }
+`;

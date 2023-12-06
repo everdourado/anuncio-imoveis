@@ -1,16 +1,16 @@
-import logo from '../../images/LogoAM.png'
+import logo from "../../images/LogoAM.png"
 
-export function Navbar(){
+export function Navbar() {
 
     return (
         <>
             <nav>
                 <div className="input-search-space">
-                    <i>
-                        <input type="text" />
-                    </i>
+                    <i></i>
                 </div>
                 <img src={logo} alt="Logo do Anúncios de Imóveis" />
+
+                <button>Entrar</button>
             </nav>
         </>
     )

@@ -7,7 +7,7 @@ export const imovel = [
         tipoDeImovel: "Casa",
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
-        telefoneContato: "77988523644",
+        telefoneContato: "5465498894",
         image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
     },
     {
@@ -18,7 +18,7 @@ export const imovel = [
         tipoDeImovel: "Casa",
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
-        telefoneContato: "77988523644",
+        telefoneContato: "5465498894",
         image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
     },
     {
@@ -29,7 +29,7 @@ export const imovel = [
         tipoDeImovel: "Casa",
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
-        telefoneContato: "77988523644",
+        telefoneContato: "5465498894",
         image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
     },
     {
@@ -40,7 +40,7 @@ export const imovel = [
         tipoDeImovel: "Casa",
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
-        telefoneContato: "77988523644",
+        telefoneContato: "5465498894",
         image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
     },
     {
@@ -51,7 +51,7 @@ export const imovel = [
         tipoDeImovel: "Casa",
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
-        telefoneContato: "77988523644",
+        telefoneContato: "5465498894",
         image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
     },
     {
@@ -62,7 +62,7 @@ export const imovel = [
         tipoDeImovel: "Casa",
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
-        telefoneContato: "77988523644",
+        telefoneContato: "5465498894",
         image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
     },
     {
@@ -73,7 +73,7 @@ export const imovel = [
         tipoDeImovel: "Casa",
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
-        telefoneContato: "77988523644",
+        telefoneContato: "5465498894",
         image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
     },
     {
@@ -84,7 +84,7 @@ export const imovel = [
         tipoDeImovel: "Casa",
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
-        telefoneContato: "77988523644",
+        telefoneContato: "5465498894",
         image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
     }
 

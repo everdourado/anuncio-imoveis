@@ -8,7 +8,7 @@ export const imovel = [
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
         telefoneContato: "5465498894",
-        image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
+        imagemImovel: "https://pt.m.wikipedia.org/wiki/Ficheiro:Casa_Amarela.jpg"
     },
     {
         cidade: "Caetité",
@@ -19,8 +19,7 @@ export const imovel = [
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
         telefoneContato: "5465498894",
-        image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
-    },
+        imagemImovel: "https://pt.m.wikipedia.org/wiki/Ficheiro:Casa_Amarela.jpg"    },
     {
         cidade: "Salvador",
         bairro: "Monte Pascoal",
@@ -30,8 +29,7 @@ export const imovel = [
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
         telefoneContato: "5465498894",
-        image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
-    },
+        imagemImovel: "https://pt.m.wikipedia.org/wiki/Ficheiro:Casa_Amarela.jpg"    },
     {
         cidade: "Brumado",
         bairro: "Monte Pascoal",
@@ -41,8 +39,7 @@ export const imovel = [
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
         telefoneContato: "5465498894",
-        image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
-    },
+        imagemImovel: "https://pt.m.wikipedia.org/wiki/Ficheiro:Casa_Amarela.jpg" },
     {
         cidade: "Irecê",
         bairro: "Monte Pascoal",
@@ -52,8 +49,7 @@ export const imovel = [
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
         telefoneContato: "5465498894",
-        image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
-    },
+        imagemImovel: "https://pt.m.wikipedia.org/wiki/Ficheiro:Casa_Amarela.jpg"},
     {
         cidade: "Vitória da Conquista",
         bairro: "Monte Pascoal",
@@ -63,8 +59,7 @@ export const imovel = [
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
         telefoneContato: "5465498894",
-        image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
-    },
+        imagemImovel: "https://pt.m.wikipedia.org/wiki/Ficheiro:Casa_Amarela.jpg" },
     {
         cidade: "João Dourado",
         bairro: "Monte Pascoal",
@@ -74,8 +69,7 @@ export const imovel = [
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
         telefoneContato: "5465498894",
-        image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
-    },
+        imagemImovel: "https://pt.m.wikipedia.org/wiki/Ficheiro:Casa_Amarela.jpg"},
     {
         cidade: "Brasilândia",
         bairro: "Monte Pascoal",
@@ -85,7 +79,7 @@ export const imovel = [
         tipoDeNegocio: "Aluguel",
         atualDisponibilidade: "Disponível",
         telefoneContato: "5465498894",
-        image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Foto_de_una_casa.jpg"
+        imagemImovel: "https://pt.m.wikipedia.org/wiki/Ficheiro:Casa_Amarela.jpg"
     }
 
 ]

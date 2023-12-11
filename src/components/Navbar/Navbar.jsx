@@ -1,21 +1,18 @@
-import logo from "../../images/LogoAM.png";
-import { Button, ImageLogo, InputSpace, Nav } from "./NavbarStyled";
-
+import logo from '../../images/LogoAM.png'
+import "./Navbar.css"
 
 export function Navbar() {
-
     return (
         <>
-            <Nav>
-                <InputSpace>
-                <i className="bi bi-search"></i>
-                <input type="text" placeholder="Pesquise por uma cidade"/>
-                </InputSpace>
+            <nav>
+                <div className="input-search-space">
+                    <i className="bi bi-search"></i>
+                    <input type="text" placeholder='Pesquise por uma cidade' />
+                </div>
+                <img src={logo} alt="Logo Aúncios de Imóveis" />
 
-                <ImageLogo src={logo} alt="Logo do Anúncios de Imóveis" />
-
-                <Button>Entrar</Button>
-            </Nav>
+                <button>ENTRAR</button>
+            </nav>
         </>
     )
 }

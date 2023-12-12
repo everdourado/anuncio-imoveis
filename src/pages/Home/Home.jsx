@@ -1,10 +1,15 @@
+import { imovel } from "../../Datas";
+import { Card } from "../../components/Cards/Card";
 import { Navbar } from "../../components/Navbar/Navbar";
 
 export default function Home() {
     return (
         <>
         <Navbar/>
-        <h1>Olá Home</h1>
+        {imovel.map((item, index) => {
+            return <Card key={index} imovel={item}/>
+        })}
+        
         </>
     )
 }

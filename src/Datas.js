@@ -1,4 +1,4 @@
-export const imovel = [
+export const imoveis = [
     {
         cidade: "Guanambi",
         bairro: "Monte Pascoal",

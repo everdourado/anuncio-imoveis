@@ -22,16 +22,16 @@ export function Card({ imoveis }) {
             <CardBody>
                 <div>
                     <h2>{cidade}</h2>
-                    <p>{bairro}</p>
-                    <p>{rua}</p>
-                    <p>{numero}</p>
-                    <p>{tipoDeImovel}</p>
-                    <p>{tipoDeNegocio}</p>
-                    <p>{atualDisponibilidade}</p>
-                    <p>{telefoneContato}</p>
+                    <p>{"Bairro: "+bairro}</p>
+                    <p>{"Rua: "+rua}</p>
+                    <p>{"Número: "+numero}</p>
+                    <p>{"Tipo de imóvel: "+tipoDeImovel}</p>
+                    <p>{"Tipo de negócio: "+tipoDeNegocio}</p>
+                    <p>{"Disponibilidade: "+atualDisponibilidade}</p>
+                    <p>{"Telefone de Contato: "+telefoneContato}</p>
                     <p>{dataAnuncio}</p>
                 </div>
-                <img src={imagemImovel} alt="Imagem do Imóvel" />
+                    <img src={imagemImovel} alt="Imagem do Imóvel" />
             </CardBody>
         </CardContainer>
     );
